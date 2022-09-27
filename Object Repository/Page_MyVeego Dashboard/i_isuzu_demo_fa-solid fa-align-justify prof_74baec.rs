@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_isuzu_demo_fa-solid fa-align-justify prof_74baec</name>
+   <tag></tag>
+   <elementGuidId>a114d3ad-2e40-415f-91ca-69355a5ab770</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa-solid.fa-align-justify.profile-menu-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>5d740d7e-892d-4773-81ec-80f52827f0d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa-solid fa-align-justify profile-menu-button</value>
+      <webElementGuid>5c0de14c-9a28-4997-951f-fecd7c925bb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;top-menu-profile&quot;]/i[@class=&quot;fa-solid fa-align-justify profile-menu-button&quot;]</value>
+      <webElementGuid>e24700eb-932b-4612-a2a7-d33a431f1709</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/i</value>
+      <webElementGuid>20bdc3f9-eb30-42e0-9c25-6e011e631711</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>7938b86d-8234-47d8-a6ff-9aba6eb5a480</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
